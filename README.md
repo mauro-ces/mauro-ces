@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ```markdown
-<img width="auto" src="https://avatars2.githubusercontent.com/u/43226395?s=460&u=77612dd3f9cb5ff7e84530c366162c17f968c61f&v=4">
-
 # Mauro César
 
 ## Olá pessoal 👋

@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 Tenho o sonho de poder ajudar diversos tipos de pessoas a alcançar seus objetivos com a ajuda da tecnologia.
 Para isso acredito que o primeiro passo é entender o quão importante é respeitar a identidade de cada um.
 
- 👔 Atualmente trabalho na **Raízen** e sou fundador da **The Thester**.
+ 👔 Fundador da **The Thester**, atuando em projetos de LGPD e SI.
  🐧 Aprendendo (apanhando do) Linux e estou iniciando em Javascript e Python
  🆕 Espero ajudar em temas que envolvam a área de cybersegurança.
  🔴 Estou sempre disposto a aprender novas tecnologias
